@@ -1,0 +1,6 @@
+framework module MFMediaPlayer {
+  umbrella header "MFMediaPlayer-umbrella.h"
+
+  export *
+  module * { export * }
+}
